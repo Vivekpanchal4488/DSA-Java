@@ -11,6 +11,7 @@ DSA - Java
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ DSA - Java
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
