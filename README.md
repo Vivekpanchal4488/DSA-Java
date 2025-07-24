@@ -17,6 +17,7 @@ DSA - Java
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ DSA - Java
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +63,12 @@ DSA - Java
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
