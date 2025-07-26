@@ -19,6 +19,7 @@ DSA - Java
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ DSA - Java
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Tree
 |  |
 | ------- |
@@ -88,4 +90,12 @@ DSA - Java
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
