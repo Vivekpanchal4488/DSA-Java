@@ -25,6 +25,7 @@ DSA - Java
 | [0027-remove-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ DSA - Java
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 ## Simulation
 |  |
