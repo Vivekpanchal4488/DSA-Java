@@ -1,27 +1,24 @@
 class Solution {
-    private boolean isPalindromeRange(String s, int left, int right) {
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
-                return false;
+    public boolean validPalindrome(String s) {
+        int i = 0;
+        int j = s.length()-1;
+        while( i < j){
+            if(s.charAt(i) != s.charAt(j)){
+                return isPalindrome(s, i+1, j) || isPalindrome(s, i, j-1);
             }
-            left++;
-            right--;
+            i++;
+            j--;
         }
         return true;
     }
-
-    public boolean validPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
-        
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
-                // Try skipping left OR skipping right to check for near-palindrome
-                return isPalindromeRange(s, left + 1, right) || isPalindromeRange(s, left, right - 1);
+    static boolean isPalindrome(String s,int i, int j){
+        while( i < j){
+            if(s.charAt(i) != s.charAt(j)){
+                return false;
             }
-            left++;
-            right--;
+            i++;
+            j--;
         }
-        
         return true;
     }
 }
