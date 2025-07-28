@@ -92,6 +92,7 @@ DSA - Java
 | [0151-reverse-words-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
@@ -102,6 +103,7 @@ DSA - Java
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
 |  |
@@ -120,4 +122,12 @@ DSA - Java
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
