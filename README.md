@@ -17,6 +17,7 @@ DSA - Java
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -57,6 +58,7 @@ DSA - Java
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Math
 |  |
@@ -106,5 +108,10 @@ DSA - Java
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
