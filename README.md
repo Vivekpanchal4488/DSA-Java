@@ -58,10 +58,12 @@ DSA - Java
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -101,6 +103,7 @@ DSA - Java
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
@@ -112,6 +115,7 @@ DSA - Java
 | ------- |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
 |  |
