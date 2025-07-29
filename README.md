@@ -21,6 +21,7 @@ DSA - Java
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
@@ -59,6 +60,7 @@ DSA - Java
 | [0088-merge-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
+| [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ DSA - Java
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
+| [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +119,7 @@ DSA - Java
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
+| [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
 |  |
