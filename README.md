@@ -55,6 +55,7 @@ DSA - Java
 | [0053-maximum-subarray](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ DSA - Java
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
@@ -144,6 +146,7 @@ DSA - Java
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -160,4 +163,8 @@ DSA - Java
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
