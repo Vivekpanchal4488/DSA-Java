@@ -119,6 +119,7 @@ DSA - Java
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
@@ -176,5 +177,6 @@ DSA - Java
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
