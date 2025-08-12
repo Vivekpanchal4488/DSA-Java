@@ -81,6 +81,7 @@ DSA - Java
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
