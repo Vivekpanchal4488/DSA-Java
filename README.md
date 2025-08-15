@@ -73,6 +73,7 @@ DSA - Java
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -86,6 +87,7 @@ DSA - Java
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -161,6 +163,7 @@ DSA - Java
 | ------- |
 | [0050-powx-n](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
