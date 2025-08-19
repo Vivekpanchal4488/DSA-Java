@@ -89,6 +89,7 @@ DSA - Java
 | [0009-palindrome-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
@@ -135,6 +136,7 @@ DSA - Java
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
@@ -194,4 +196,8 @@ DSA - Java
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
