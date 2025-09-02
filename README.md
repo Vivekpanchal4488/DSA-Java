@@ -44,6 +44,7 @@ DSA - Java
 | [0125-valid-palindrome](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
@@ -135,6 +136,7 @@ DSA - Java
 | [0151-reverse-words-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
+| [0344-reverse-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
