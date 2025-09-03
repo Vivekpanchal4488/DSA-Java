@@ -8,6 +8,7 @@ DSA - Java
 | [0001-two-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0051-n-queens) |
@@ -52,6 +53,7 @@ DSA - Java
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
