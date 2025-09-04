@@ -13,6 +13,7 @@ DSA - Java
 | [0046-permutations](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ DSA - Java
 | [0009-palindrome-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
