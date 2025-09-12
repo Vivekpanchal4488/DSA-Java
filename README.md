@@ -220,4 +220,8 @@ DSA - Java
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
