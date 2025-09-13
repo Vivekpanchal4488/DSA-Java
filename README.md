@@ -188,6 +188,7 @@ DSA - Java
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
@@ -224,4 +225,5 @@ DSA - Java
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
