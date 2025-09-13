@@ -224,6 +224,7 @@ DSA - Java
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
