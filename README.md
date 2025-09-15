@@ -45,6 +45,7 @@ DSA - Java
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0283-move-zeroes) |
@@ -162,6 +163,7 @@ DSA - Java
 | ------- |
 | [0001-two-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -226,5 +228,6 @@ DSA - Java
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
