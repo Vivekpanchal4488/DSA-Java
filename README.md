@@ -52,6 +52,7 @@ DSA - Java
 | [0344-reverse-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
+| [2481-strictly-palindromic-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ DSA - Java
 | [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2481-strictly-palindromic-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ DSA - Java
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
