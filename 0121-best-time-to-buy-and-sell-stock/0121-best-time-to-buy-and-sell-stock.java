@@ -4,10 +4,10 @@ class Solution {
         int profit = 0;
         for(int i=0; i<prices.length; i++){
             int currprofit = prices[i] - buy;
-            if( currprofit > profit){
+            if(profit < currprofit){
                 profit = currprofit;
             }
-            if( prices[i] < buy){
+            if( buy > prices[i]){
                 buy = prices[i];
             }
         }
