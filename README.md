@@ -6,6 +6,7 @@ DSA - Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0027-remove-element) |
@@ -41,6 +42,7 @@ DSA - Java
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0027-remove-element) |
@@ -122,6 +124,7 @@ DSA - Java
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
