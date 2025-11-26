@@ -33,6 +33,7 @@ DSA - Java
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1929-concatenation-of-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -171,6 +172,7 @@ DSA - Java
 | ------- |
 | [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
