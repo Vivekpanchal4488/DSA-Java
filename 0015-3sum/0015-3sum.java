@@ -11,10 +11,10 @@ class Solution {
             }
             int start = i+1;
             int end = nums.length-1;
-            while( start < end){
+            while(start < end){
                 int sum = nums[i] + nums[start] + nums[end];
-                if( sum == 0){
-                    result.add(Arrays.asList(nums[i] , nums[start] , nums[end]));
+                if(sum == 0){
+                    result.add(Arrays.asList(nums[i], nums[start], nums[end]));
                     while(start < end && nums[start] == nums[start+1]){
                         start++;
                     }
