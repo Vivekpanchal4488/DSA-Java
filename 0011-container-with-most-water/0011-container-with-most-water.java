@@ -4,8 +4,8 @@ class Solution {
         int end = height.length-1;
         int maxarea = 0;
         while(start < end){
-            int area = Math.min(height[start] , height[end]) * (end - start);
-            maxarea = Math.max(area, maxarea);
+            int area = Math.min(height[start], height[end]) * (end -start);
+            maxarea = Math.max(area , maxarea);
             if(height[start] < height[end]){
                 start++;
             }
@@ -13,6 +13,6 @@ class Solution {
                 end--;
             }
         }
-    return maxarea;
+        return maxarea;
     }
 }
