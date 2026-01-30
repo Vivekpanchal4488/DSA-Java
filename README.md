@@ -13,6 +13,7 @@ DSA - Java
 | [0031-next-permutation](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0053-maximum-subarray) |
@@ -178,6 +179,7 @@ DSA - Java
 | ------- |
 | [0001-two-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
