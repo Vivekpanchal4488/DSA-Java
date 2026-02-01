@@ -11,8 +11,8 @@ class Solution {
                 if(sum == target){
                     return sum;
                 }
-                if(Math.abs(start) - target < diff){
-                    diff = Math.abs(start - target);
+                if(Math.abs(sum - target) < diff){
+                    diff = Math.abs(sum - target);
                     closest = sum;
                 }
                 if(sum < target){
