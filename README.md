@@ -36,6 +36,7 @@ DSA - Java
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -68,6 +69,7 @@ DSA - Java
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [2481-strictly-palindromic-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@ DSA - Java
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
