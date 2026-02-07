@@ -38,6 +38,7 @@ DSA - Java
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1929-concatenation-of-array) |
@@ -89,6 +90,7 @@ DSA - Java
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ DSA - Java
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
@@ -268,4 +271,24 @@ DSA - Java
 | [0092-reverse-linked-list-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
