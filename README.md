@@ -14,6 +14,7 @@ DSA - Java
 | [0027-remove-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0046-permutations) |
@@ -78,6 +79,7 @@ DSA - Java
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
