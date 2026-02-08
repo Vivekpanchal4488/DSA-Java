@@ -39,6 +39,7 @@ DSA - Java
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
@@ -89,6 +90,7 @@ DSA - Java
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
