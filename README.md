@@ -30,6 +30,7 @@ DSA - Java
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ DSA - Java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0792-binary-search) |
