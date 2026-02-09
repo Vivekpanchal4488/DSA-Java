@@ -45,6 +45,7 @@ DSA - Java
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -155,6 +156,7 @@ DSA - Java
 | [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2481-strictly-palindromic-number) |
