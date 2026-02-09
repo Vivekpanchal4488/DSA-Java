@@ -47,6 +47,7 @@ DSA - Java
 | [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -303,4 +304,8 @@ DSA - Java
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
