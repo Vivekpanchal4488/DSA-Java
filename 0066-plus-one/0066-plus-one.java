@@ -10,6 +10,6 @@ class Solution {
         }
         int[] newnumber = new int[n + 1];
             newnumber[0] = 1;
-        return newnumber;
+            return newnumber;
     }
 }
