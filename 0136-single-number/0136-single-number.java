@@ -4,6 +4,6 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             value = value ^ nums[i];
         }
-        return value;
+    return value;
     }
 }
