@@ -34,6 +34,7 @@ DSA - Java
 | [0169-majority-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ DSA - Java
 | [0035-search-insert-position](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -127,6 +129,7 @@ DSA - Java
 | [0169-majority-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
@@ -137,6 +140,7 @@ DSA - Java
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -154,6 +158,7 @@ DSA - Java
 | [0066-plus-one](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
@@ -219,6 +224,7 @@ DSA - Java
 | [0169-majority-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
