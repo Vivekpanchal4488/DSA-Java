@@ -68,6 +68,7 @@ DSA - Java
 | [0018-4sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -193,6 +194,7 @@ DSA - Java
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0125-valid-palindrome) |
@@ -278,6 +280,7 @@ DSA - Java
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
