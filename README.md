@@ -194,6 +194,7 @@ DSA - Java
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0115-distinct-subsequences) |
@@ -318,4 +319,12 @@ DSA - Java
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
