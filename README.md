@@ -54,6 +54,7 @@ DSA - Java
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2418-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2418-sort-the-people) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -135,6 +136,7 @@ DSA - Java
 | [0905-sort-array-by-parity](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [2418-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
@@ -210,6 +212,7 @@ DSA - Java
 | [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
+| [2418-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
@@ -230,6 +233,7 @@ DSA - Java
 | [0268-missing-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0389-find-the-difference) |
+| [2418-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
