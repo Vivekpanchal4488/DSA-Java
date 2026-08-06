@@ -119,6 +119,7 @@ DSA - Java
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0410-split-array-largest-sum](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1013-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1668-maximum-repeating-substring) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
 ## Sorting
 |  |
@@ -211,6 +212,7 @@ DSA - Java
 | [0415-add-strings](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0680-valid-palindrome-ii) |
+| [1668-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1668-maximum-repeating-substring) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
 | [2418-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/2502-sort-the-people) |
@@ -287,6 +289,7 @@ DSA - Java
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/0459-repeated-substring-pattern) |
+| [1668-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1668-maximum-repeating-substring) |
 | [1764-maximum-repeating-substring](https://github.com/Vivekpanchal4488/DSA-Java/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |
